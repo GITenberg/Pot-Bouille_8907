@@ -1,5 +1,8 @@
 _repo: Pot-Bouille_8907
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -18,6 +21,8 @@ description: "Pot-Bouille is the tenth novel in the Rougon-Macquart series by É
   \ apartment building, a relatively new housing arrangement at the time and its title\
   \ (roughly translating as stew pot) reflects the disparate and sometimes unpleasant\
   \ elements lurking behind the building's new façade.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8907#Pot-Bouille
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
